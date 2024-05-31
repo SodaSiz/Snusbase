@@ -1,5 +1,6 @@
 # Script Snusbase Python
 ![Snusbase Logo](https://snusbase.com/img/logo_vertical.png)
+
 Un simple utilitaire en ligne de commande pour utiliser snusbase
 
 ## Instructions
