@@ -1,0 +1,4 @@
+requests
+fade
+colorama
+python-dotenv
