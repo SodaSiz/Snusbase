@@ -8,6 +8,7 @@ Un simple utilitaire en ligne de commande pour utiliser snusbase
 - 1. Pour commencer, vous devez au préalable entrer remplir votre fichier .env dans ce format :
 
 > SNUSBASE_AUTH_TOKEN="<Votre token d'authentification snusbase>"
+
 > SNUSBASE_API="https://api-experimental.snusbase.com/"
 
 > [!IMPORTANT] 
