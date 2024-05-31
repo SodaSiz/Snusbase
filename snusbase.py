@@ -357,7 +357,7 @@ text_default =r'''
   \___ \| '_ \| | | / __| '_ \ / _` / __|/ _ \
   ____) | | | | |_| \__ \ |_) | (_| \__ \  __/
  |_____/|_| |_|\__,_|___/_.__/ \__,_|___/\___|
- Ez by M1stral (Alan) X Enzo Liberie (Opérateur) X Vitale (Lozo)
+ By Siz (M1stral, Alan)
 '''
 
 #CHECK IF OUTPUT DIRECTORY EXIST
