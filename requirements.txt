@@ -1,0 +1,6 @@
+requests
+fade
+colorama
+python-dotenv
+customtkinter
+Pillow
