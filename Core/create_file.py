@@ -15,4 +15,6 @@ def create_file(formatted_response, filename):
             f.write(json.dumps(formatted_response, indent=1))
             f.close()
 
-    print(Style.RESET_ALL + "[" + Fore.BLUE+"+"+Style.RESET_ALL + "]" + ' Le fichier est stocké dans "data/' + filename + '.json"')
+        return print(Style.RESET_ALL + "[" + Fore.BLUE+"+"+Style.RESET_ALL + "]" + ' Le fichier est stocké dans "data/' + filename + '.json"')
+    
+    return print(Style.RESET_ALL + "[" + Fore.BLUE+"!"+Style.RESET_ALL + "]" + 'Fichier non enregistré.')
