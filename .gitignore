@@ -1,4 +1,6 @@
 .env
-__pycache
+__pycache__
 data
 .env
+UI.py
+Utils

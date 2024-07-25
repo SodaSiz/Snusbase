@@ -1,6 +1,5 @@
 import os
-import json
-import requests
+
 from dotenv import load_dotenv
 from Requests.Versions.Beta.V1 import api_v1
 from Requests.Versions.Beta.V2 import api_v2
