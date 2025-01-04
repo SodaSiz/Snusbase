@@ -8,7 +8,7 @@ Un simple utilitaire en ligne de commande pour utiliser snusbase
 - 1. Pour commencer, vous devez au préalable entrer remplir votre fichier .env dans ce format :
 ```
 SNUSBASE_AUTH_TOKEN="<Votre token d'authentification snusbase>"
-SNUSBASE_API="https://api-experimental.snusbase.com/"
+SNUSBASE_API="https://api.snusbase.com/"
 ```
 > [!IMPORTANT] 
 > N'oubliez surtout pas d'entrer votre token d'authentification !
@@ -21,8 +21,4 @@ pip install -r requirements.txt
 - 3. Lancer l'utilitaire Snusbase
 ```sh
 python3 snusbase.py
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 2a87be2fd55d4182a2cb751fca1ddebe607e9da9
